@@ -1,0 +1,12 @@
+# Build output directories
+out/
+dist/
+
+# Node dependencies folder
+node_modules/
+
+# VSCode test output
+.vscode-test/
+
+# VSCode extension packages (sometimes created during package testing)
+*.vsix
