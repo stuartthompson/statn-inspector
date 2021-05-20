@@ -19,28 +19,7 @@
         "command": "statn-inspector.helloWorld",
         "title": "Hello World"
       }
-    ],
-    "viewsContainers": {
-      "panel": [
-        {
-          "id": "statn-inspector",
-          "title": "Statn Inspector",
-          "icon": "resources/statn-inspector.svg"
-        }
-      ]
-    },
-    "views": {
-      "statn-insepctor": [
-        {
-          "id": "file-info",
-          "name": "File Info"
-        },
-        {
-          "id": "char-count",
-          "name": "Char Count"
-        }
-      ]
-    }
+    ]
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",
